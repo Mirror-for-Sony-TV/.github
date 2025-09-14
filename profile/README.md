@@ -95,16 +95,3 @@ Privacy and convenience features include on-screen **mouse/keyboard privacy** (h
 ## 🏷 Tags (SEO)
 
 mirror for sony tv • mac to sony bravia • screen mirroring mac • cast mac to tv • dlna sony tv mac • android tv mac mirroring • airplay alternative sony • mirror mac display wireless • stream video files to tv mac • hevc h264 casting mac • subtitle srt sony tv • low latency screen share mac • present slides to tv mac • bravia network player mac • audio sync mac to tv • 5ghz wifi mirroring • apple silicon mirroring app • mac meeting room display • mirror safari chrome to tv • cast mkv mp4 mov to sony tv
-
----
-
-## 📜 Descriptions
-
-### 🚀 Short Description  
-Mirror for Sony TV lets you wirelessly mirror your Mac’s screen and cast videos—with audio, subtitles, and quality controls—to Sony BRAVIA/Android TV on the same network.
-
-### 📜 Description 1 (~350 chars)  
-Mirror for Sony TV is a Mac app that mirrors your desktop and casts video files to Sony BRAVIA/Android TV—no cables required. Adjust resolution, frame rate, and bit-rate, stream system or mic audio, and pick subtitles/audio tracks. Ideal for presentations, classes, and home viewing, with low-latency mode and Apple Silicon optimization for smooth playback.
-
-### 📜 Description 2 (~350 chars)  
-Connect Mac and TV to the same Wi-Fi, select your Sony TV, and start mirroring a screen or window. Cast MP4/MKV/MOV with subtitles, control playback on supported models, and use privacy options to hide notifications. With per-app audio routing and HEVC/H.264 encoding, Mirror for Sony TV delivers sharp, stable wireless viewing for work or entertainment.
